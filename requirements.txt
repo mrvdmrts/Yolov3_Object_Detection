@@ -1,0 +1,10 @@
+opencv-python
+streamlit
+numpy 
+wget
+requests
+pafy
+youtube-dl
+yt-dlp
+pytube
+tempfile
